@@ -1,35 +1,82 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C2FF,45:7C3AED,100:111827&text=Pawan%20Suthar&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" alt="Pawan Suthar profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:070B14,70:111827,100:1E1B4B&text=Pawan%20Suthar&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20App%20Developer%20%7C%20GenAI%20Automation&descAlignY=58&descSize=17" alt="Pawan Suthar profile banner" width="100%" />
 
   <a href="https://github.com/pawansuthar01">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00C2FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Pawan+Suthar;I+build+clean%2C+fast%2C+useful+digital+experiences;Always+learning%2C+always+shipping" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=700&color=00C2FF&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+building+modern+digital+products;Mobile+app+developer+with+React+Native+and+Expo;Creating+AI-powered+tools+and+automation+workflows;Focused+on+clean+UI%2C+scalable+systems%2C+and+real+impact" alt="Typing introduction" />
   </a>
 
-  <p>
-    <a href="https://github.com/pawansuthar01?tab=followers">
-      <img src="https://img.shields.io/github/followers/pawansuthar01?style=for-the-badge&logo=github&label=Followers&color=111827&labelColor=00C2FF" alt="GitHub followers" />
-    </a>
-    <a href="https://github.com/pawansuthar01?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=github" alt="Repositories" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=pawansuthar01&style=for-the-badge&color=00C2FF&label=Profile+Views" alt="Profile views" />
-  </p>
+  <br />
+  <br />
 
+  <a href="https://github.com/pawansuthar01?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Projects-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=070B14" alt="Explore projects" />
+  </a>
+  <a href="https://www.linkedin.com/in/pawansuthar01">
+    <img src="https://img.shields.io/badge/LinkedIn-pawansuthar01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070B14" alt="LinkedIn profile" />
+  </a>
+  <a href="https://www.instagram.com/pawansuthar.01">
+    <img src="https://img.shields.io/badge/Instagram-pawansuthar.01-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=070B14" alt="Instagram profile" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="./assets/profile-highlights.svg" alt="Pawan Suthar profile highlights" width="96%" />
 </div>
 
 ---
 
 ## About Me
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Developer Profile</h3>
+      <p>
+        I am a <b>full stack developer</b> who builds modern web apps, mobile apps,
+        backend systems, automation workflows, and GenAI powered products.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>How I Build</h3>
+      <p>
+        I focus on clean UI, useful features, practical architecture, fast delivery,
+        and improving every project with real feedback.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ```txt
 Name        : Pawan Suthar
 GitHub      : pawansuthar01
-Focus       : Web development, clean UI, practical software
-Mindset     : Learn deeply, build consistently, improve every version
+Role        : Full Stack Developer
+Also Builds : Mobile apps, CLI tools, GenAI systems, n8n automations
 ```
 
-I enjoy turning ideas into polished, useful projects. My work style is simple: understand the problem, design a clean solution, write maintainable code, and keep improving through real feedback.
+---
+
+## Core Skills
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Full Stack Web</h3>
+      <p align="center">Frontend, backend, APIs, databases, dashboards, auth flows, and production-ready web apps.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">Mobile Apps</h3>
+      <p align="center">React Native, Expo, app screens, navigation, native-like UI, and CLI based workflows.</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">GenAI + Automation</h3>
+      <p align="center">AI tools, prompt workflows, n8n automation, integrations, and smart business systems.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,36 +84,18 @@ I enjoy turning ideas into polished, useful projects. My work style is simple: u
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,figma&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,java,c,cpp,git,github,vscode,figma&perline=10" alt="Tech stack icons" />
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-070B14?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/CLI%20Tools-111827?style=for-the-badge&logo=gnubash&logoColor=00C2FF" alt="CLI tools" />
+  <img src="https://img.shields.io/badge/GenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 </div>
-
----
-
-## What I Do
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Frontend</h3>
-      <p align="center">Responsive layouts, modern interfaces, smooth user experiences, and clean component structure.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Backend</h3>
-      <p align="center">APIs, databases, authentication flows, server-side logic, and practical application architecture.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Problem Solving</h3>
-      <p align="center">Breaking down complex requirements into simple, working, maintainable solutions.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Continuous Learning</h3>
-      <p align="center">Exploring new tools, improving fundamentals, and building projects that sharpen real skills.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -74,45 +103,35 @@ I enjoy turning ideas into polished, useful projects. My work style is simple: u
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pawansuthar01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Pawan Suthar GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansuthar01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pawansuthar01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=070B14&title_color=00C2FF&icon_color=7C3AED&text_color=E5E7EB" alt="Pawan Suthar GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansuthar01&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=070B14&title_color=00C2FF&text_color=E5E7EB" alt="Most used languages" />
 
   <br />
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=pawansuthar01&theme=tokyonight&hide_border=true&card_width=760" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=pawansuthar01&theme=dark&hide_border=true&background=070B14&ring=00C2FF&fire=7C3AED&currStreakLabel=00C2FF" alt="GitHub streak stats" />
 
   <br />
   <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawansuthar01&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawansuthar01&bg_color=070B14&color=E5E7EB&line=00C2FF&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="96%" />
 
 </div>
 
 ---
 
-## Featured Profile
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=pawansuthar01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub trophies" />
-
-</div>
-
----
-
-## Connect With Me
+## Connect
 
 <div align="center">
 
   <a href="https://github.com/pawansuthar01">
-    <img src="https://img.shields.io/badge/GitHub-pawansuthar01-111827?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-pawansuthar01-070B14?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <a href="https://github.com/pawansuthar01?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20Work-00C2FF?style=for-the-badge&logo=github" alt="View projects" />
+  <a href="https://www.linkedin.com/in/pawansuthar01">
+    <img src="https://img.shields.io/badge/LinkedIn-pawansuthar01-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
-  <a href="https://github.com/pawansuthar01?tab=followers">
-    <img src="https://img.shields.io/badge/Follow-GitHub-7C3AED?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+  <a href="https://www.instagram.com/pawansuthar.01">
+    <img src="https://img.shields.io/badge/Instagram-pawansuthar.01-E4405F?style=for-the-badge&logo=instagram" alt="Instagram profile" />
   </a>
 
 </div>
@@ -121,9 +140,8 @@ I enjoy turning ideas into polished, useful projects. My work style is simple: u
 
 <div align="center">
 
-  <h3>Thanks for visiting my profile.</h3>
-  <p>Check out my repositories, follow my work, and feel free to connect.</p>
+  <h3>Building web apps, mobile apps, automation systems, and AI-powered products.</h3>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,45:7C3AED,100:00C2FF" alt="Footer wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,45:111827,75:070B14,100:020617" alt="Footer wave" width="100%" />
 
 </div>

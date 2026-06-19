@@ -1,0 +1,38 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="360" rx="22" fill="#070B14"/>
+  <rect x="1" y="1" width="958" height="358" rx="21" stroke="#1F2937" stroke-width="2"/>
+  <path d="M0 96C122 26 214 155 347 82C503 -3 610 49 734 91C840 127 912 82 960 43V0H0V96Z" fill="#0F172A"/>
+  <path d="M0 118C126 58 229 164 363 104C519 34 609 73 738 109C839 137 913 106 960 77V0H0V118Z" fill="#111827" opacity="0.9"/>
+  <circle cx="790" cy="76" r="136" fill="#00C2FF" opacity="0.09"/>
+  <circle cx="172" cy="278" r="132" fill="#7C3AED" opacity="0.10"/>
+
+  <text x="48" y="72" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">Pawan Suthar</text>
+  <text x="48" y="105" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Full Stack Developer • App Developer • GenAI & Automation Builder</text>
+
+  <g transform="translate(48 150)">
+    <rect width="260" height="124" rx="16" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="18" y="18" width="42" height="42" rx="12" fill="#00C2FF" opacity="0.16"/>
+    <text x="78" y="43" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Web Apps</text>
+    <text x="20" y="86" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Frontend, backend, APIs,</text>
+    <text x="20" y="108" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">databases and clean UI.</text>
+  </g>
+
+  <g transform="translate(350 150)">
+    <rect width="260" height="124" rx="16" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="18" y="18" width="42" height="42" rx="12" fill="#7C3AED" opacity="0.18"/>
+    <text x="78" y="43" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Mobile Apps</text>
+    <text x="20" y="86" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">React Native, Expo and</text>
+    <text x="20" y="108" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">CLI based app workflows.</text>
+  </g>
+
+  <g transform="translate(652 150)">
+    <rect width="260" height="124" rx="16" fill="#0B1220" stroke="#1E293B"/>
+    <rect x="18" y="18" width="42" height="42" rx="12" fill="#22C55E" opacity="0.16"/>
+    <text x="78" y="43" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Automation</text>
+    <text x="20" y="86" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">GenAI, n8n and smart</text>
+    <text x="20" y="108" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">business automations.</text>
+  </g>
+
+  <text x="48" y="326" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">github.com/pawansuthar01</text>
+  <text x="742" y="326" fill="#64748B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">instagram.com/pawansuthar.01</text>
+</svg>
