@@ -23,9 +23,22 @@
 
 ---
 
-<div align="center">
-  <img src="./assets/profile-highlights.svg" alt="Pawan Suthar profile highlights" width="96%" />
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Web Apps</h3>
+      <p>Frontend, backend, APIs, databases, dashboards, auth flows, and clean product UI.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Mobile Apps</h3>
+      <p>React Native, Expo, CLI workflows, app screens, navigation, and native-like experiences.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Automation</h3>
+      <p>GenAI tools, n8n workflows, integrations, and smart systems that save time.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
